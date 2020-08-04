@@ -2,3 +2,4 @@ a=2
 b=3
 c=a+b
 print(c)
+# it is a part of my py_HW-5
